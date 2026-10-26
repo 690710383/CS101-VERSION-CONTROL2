@@ -7,5 +7,9 @@
 ## My Learning Goals
 - Learn Python programming
 - Got a job
-- have money 100 million
 - Buid a personal game
+
+## Technology interests
+- Cybersecurity
+- Game Deverlopment
+  
