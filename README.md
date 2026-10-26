@@ -12,4 +12,9 @@
 ## Technology interests
 - Cybersecurity
 - Game Deverlopment
+
+## Skills
+- Problem solving
+- Python basics
+- Teamwork
   
