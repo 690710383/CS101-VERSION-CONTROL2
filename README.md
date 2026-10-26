@@ -9,10 +9,6 @@
 - Got a job
 - Buid a personal game
 
-## Technology interests
-- Cybersecurity
-- Game Deverlopment
-
 ## Skills
 - Problem solving
 - Python basics
